@@ -1,10 +1,5 @@
 ---
 title: About Me
 layout: page
-permalink: /aboutme/
+permalink: /about/
 ---
-
-# Here is big text
-## Smaller text
-
-Smallest text
